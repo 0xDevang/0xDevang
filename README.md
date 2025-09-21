@@ -140,12 +140,12 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alenway&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenway&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xDevang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDevang&layout=compact&theme=tokyonight&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=alenway&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=0xDevang&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
@@ -154,7 +154,7 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alenway&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0xDevang&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </p>
 
 
@@ -163,7 +163,7 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alenway&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xDevang&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -184,7 +184,7 @@ I'm always interested in collaborating on innovative projects and meeting fellow
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-  <img src="https://komarev.com/ghpvc/?username=alenway&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=0xDevang&style=for-the-badge&color=blue" alt="Profile Views" />
 
 </div>
 
@@ -204,7 +204,7 @@ I'm always interested in collaborating on innovative projects and meeting fellow
 
   <!-- Interactive Buttons -->
 
-[![Let's Chat](https://img.shields.io/badge/Let's%20Chat-💬-blue?style=for-the-badge&logo=telegram)](mailto:narendrasamtanidev@gmail.com)
+[![Let's Chat](https://img.shields.io/badge/Let's%20Chat-💬-blue?style=for-the-badge&logo=telegram)](mailto:devang.verma112003@gmail.com)
 [![Collaborate](https://img.shields.io/badge/Collaborate-🤝-green?style=for-the-badge&logo=github)](#)
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-💼-orange?style=for-the-badge&logo=handshake)](#)
 
