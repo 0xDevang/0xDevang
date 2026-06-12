@@ -114,7 +114,7 @@ I’m always eager to grow, collaborate, and contribute to impactful projects.
 -   [*Demo](https://modernportfolio-jst3.vercel.app/) | [Code*](https://github.com/alenway/modernportfolio)
     </td>
 <td width="50%"> -->
-  -->
+
 <!--
 *🎮 Project Beta*
 
@@ -125,6 +125,7 @@ I’m always eager to grow, collaborate, and contribute to impactful projects.
 -->
 </td>
 </tr>
+-->
 </table>
 
 <!-- *🏆 Achievement Stats:*
