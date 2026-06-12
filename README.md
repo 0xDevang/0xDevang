@@ -16,13 +16,19 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with a love for creating innovative solutions and building scalable applications. Currently focused on modern web technologies and always eager to learn and collaborate on exciting projects.
+Hi, I'm Devang Verma, a passionate and curious Programming & Data Analyst. Completed Master of Computer Applications (MCA) from Ajeenkya DY Patil University, Pune. I hold a bachelor's degree in computer applications (BCA), and throughout my academic journey, I’ve consistently been driven by a love for coding and a deep interest in the intersection of programming and data.
 
-- 🔭 *Currently working on:* Building full-stack web applications with React and Node.js
-- 🌱 *Learning:* Advanced TypeScript, Cloud Architecture, and DevOps practices
-- 👯 *Looking to collaborate on:* Open source projects and innovative web applications
-- 💬 *Ask me about:* JavaScript, React, Node.js, and full-stack development
-- ⚡ *Fun fact:* I love solving complex problems and turning coffee into code ☕
+Technical Skills:
+Languages : Python(Pandas, NumPy, Matplotlib) | SQL
+Tools: Microsoft Excel, Power BI, Google Sheets 
+Web Technologies: Django, HTML, CSS 
+Foundational Knowledge: Java | Linux (Basics) | C++
+
+I'm especially fascinated by how data and programming come together to solve real-world problems. This has led me to dive into the world of Data Science and Data Analysis, where I’m continuously learning how to turn raw data into meaningful insights using the power of code.
+
+I’m always eager to grow, collaborate, and contribute to impactful projects.
+
+📫Let’s connect! I’m open to opportunities, internships, collaborations, and discussions related to programming, data, or anything tech.
 
 ---
 
