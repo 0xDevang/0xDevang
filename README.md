@@ -161,7 +161,7 @@ I'm always interested in collaborating on innovative projects and meeting fellow
 
   <h2>🤝 Let's Build Something Amazing Together!</h2>
 
-  <p><i>I'm always excited to collaborate on innovative projects and connect with fellow developers!</i></p>
+  <p><i>I'm always excited to collaborate on innovative projects and connect with fellow Data Analyst, Data Scientist and Techies!</i></p>
 
   <!-- Interactive Buttons -->
 
