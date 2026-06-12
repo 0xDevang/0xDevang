@@ -99,7 +99,7 @@ I’m always eager to grow, collaborate, and contribute to impactful projects.
 <details>
 <summary>🎯 <b>Featured Projects (Click to explore!)</b></summary>
 <br>
-<!--
+
 ### 🌟 Project Highlights
 
 <table>
@@ -113,30 +113,30 @@ I’m always eager to grow, collaborate, and contribute to impactful projects.
 -   *Status:* 🟢 Live & Growing
 -   [*Demo](https://modernportfolio-jst3.vercel.app/) | [Code*](https://github.com/alenway/modernportfolio)
     </td>
-<td width="50%"> -->
+<td width="50%"> 
 
-<!--
+
 *🎮 Project Beta*
 
 -   *Tech:* Next.js, TypeScript, Prisma
 -   *Features:* 3D visualizations, WebRTC
 -   *Status:* 🟡 In Development
 -   [*Demo](#) | [Code*](#)
--->
+
 </td>
 </tr>
--->
+
 </table>
 
-<!-- *🏆 Achievement Stats:*
+<*🏆 Achievement Stats:*
 
 -   💻 *20+* Full-stack projects completed
 -   🌟 *500+* GitHub stars earned
 -   🤝 *50+* Open source contributions
 -   📈 *10K+* Lines of code written this year
--->
-</details>
 
+</details>
+-->
 
 
 ---
