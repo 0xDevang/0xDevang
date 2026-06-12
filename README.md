@@ -94,7 +94,7 @@ I’m always eager to grow, collaborate, and contribute to impactful projects.
 </table>
 
 </details>
-
+<!--
 <!-- Interactive Project Showcase -->
 <details>
 <summary>🎯 <b>Featured Projects (Click to explore!)</b></summary>
@@ -114,6 +114,7 @@ I’m always eager to grow, collaborate, and contribute to impactful projects.
 -   [*Demo](https://modernportfolio-jst3.vercel.app/) | [Code*](https://github.com/alenway/modernportfolio)
     </td>
 <td width="50%"> -->
+  -->
 <!--
 *🎮 Project Beta*
 
@@ -180,11 +181,11 @@ I’m always eager to grow, collaborate, and contribute to impactful projects.
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on innovative projects and meeting fellow developers. Feel free to reach out if you'd like to work together or just have a chat about technology!
+I'm always interested in collaborating on innovative projects and meeting fellow Data Analyst, Data Scientist and Web developers. Feel free to reach out if you'd like to work together or just have a chat about technology!
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"Turning data into insights and ideas into code."*
 
   <img src="https://komarev.com/ghpvc/?username=0xDevang&style=for-the-badge&color=blue" alt="Profile Views" />
 
