@@ -1,7 +1,7 @@
 # Hi there, I'm Devang Verma 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analyst;Problem+Solver;Open+Source+Enthusiast;Python+Development;Knowledge+seeker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analyst;Problem+Solver;Open+Source+Enthusiast;Python+Development;Knowledge+seeker;" alt="Typing SVG" />
 </div>
 
 <div align="center">
