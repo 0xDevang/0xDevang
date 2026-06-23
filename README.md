@@ -19,7 +19,7 @@
 Hi, I'm Devang Verma, a passionate and curious Programming & Data Analyst. Completed Master of Computer Applications (MCA) from Ajeenkya DY Patil University, Pune. I hold a bachelor's degree in computer applications (BCA), and throughout my academic journey, I’ve consistently been driven by a love for coding and a deep interest in the intersection of programming and data.
 
 Technical Skills:
-Languages : Python(Pandas, NumPy, Matplotlib) | SQL
+Languages : Python(Pandas, NumPy, Matplotlib) | SQL | 
 Tools: Microsoft Excel, Power BI, Google Sheets 
 Web Technologies: Django, HTML, CSS 
 Foundational Knowledge: Java | Linux (Basics) | C++
