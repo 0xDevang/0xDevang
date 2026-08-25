@@ -23,8 +23,6 @@
 - 🔍 Interested in solving real-world problems using data and code.
 - 🚀 Continuously learning and building projects to strengthen my Data Science & Analytics skills.
   
-🤝 Open to collaborations, internships, projects, and opportunities related to Data Science, Data Analytics, and Programming.
-
 🛠️ Tech Stack
 
 - Programming & Data: Python | SQL | Pandas | NumPy | Matplotlib | Seaborn
@@ -33,6 +31,8 @@
 - Databases: SQL
 - Web Development: Django | HTML | CSS
 - Other: Java | C++ | Linux (Basics)
+
+🤝 Open to collaborations, internships, projects, and opportunities related to Data Science, Data Analytics, and Programming.
 
 📫 Let's connect and build something meaningful with data!
 ---
