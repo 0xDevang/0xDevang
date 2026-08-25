@@ -38,9 +38,9 @@
 ---
 
 ## 🛠 Technologies & Tools
-
+<!--
 <details>
-<!-- summary>📦 <b>Click to view technologies & tools</b></summary> -->
+<summary>📦 <b>Click to view technologies & tools</b></summary> -->
 <br>
 
 <table>
@@ -97,8 +97,10 @@
 </td>
 </tr>
 </table>
+<!--
+</details>  
 
-</details>
+-->
 
 
 ---
