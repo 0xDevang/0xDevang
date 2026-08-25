@@ -35,12 +35,13 @@
 🤝 Open to collaborations, internships, projects, and opportunities related to Data Science, Data Analytics, and Programming.
 
 📫 Let's connect and build something meaningful with data!
+
 ---
 
 ## 🛠 Technologies & Tools
-<!--
+
 <details>
-<summary>📦 <b>Click to view technologies & tools</b></summary> -->
+<summary>📦 <b>Click to view technologies & tools</b></summary> 
 <br>
 
 <table>
@@ -97,10 +98,10 @@
 </td>
 </tr>
 </table>
-<!--
+
 </details>  
 
--->
+<br>
 
 
 ---
