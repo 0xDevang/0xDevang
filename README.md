@@ -16,22 +16,23 @@
 
 ## 🚀 About Me
 
-📊 Data Science Enthusiast passionate about turning data into meaningful insights.
-🐍 Currently working with Python, Pandas, NumPy, Matplotlib, and SQL.
-📈 Exploring Data Analysis, Data Visualization, Machine Learning, and Statistics.
-💻 MCA graduate with a strong foundation in Programming & Computer Applications.
-🔍 Interested in solving real-world problems using data and code.
-🚀 Continuously learning and building projects to strengthen my Data Science & Analytics skills.
+- 📊 Data Science Enthusiast passionate about turning data into meaningful insights.
+- 🐍 Currently working with Python, Pandas, NumPy, Matplotlib, and SQL.
+- 📈 Exploring Data Analysis, Data Visualization, Machine Learning, and Statistics.
+- 💻 MCA graduate with a strong foundation in Programming & Computer Applications.
+- 🔍 Interested in solving real-world problems using data and code.
+- 🚀 Continuously learning and building projects to strengthen my Data Science & Analytics skills.
+- 
 🤝 Open to collaborations, internships, projects, and opportunities related to Data Science, Data Analytics, and Programming.
 
 🛠️ Tech Stack
 
-Programming & Data: Python | SQL | Pandas | NumPy | Matplotlib | Seaborn
-Data Analysis & Visualization: Excel | Power BI | Google Sheets
-Data Science: Statistics | Exploratory Data Analysis (EDA) | Data Cleaning | Data Visualization | Machine Learning (Learning)
-Databases: SQL
-Web Development: Django | HTML | CSS
-Other: Java | C++ | Linux (Basics)
+- Programming & Data: Python | SQL | Pandas | NumPy | Matplotlib | Seaborn
+- Data Analysis & Visualization: Excel | Power BI | Google Sheets
+- Data Science: Statistics | Exploratory Data Analysis (EDA) | Data Cleaning | Data Visualization | Machine Learning (Learning)
+- Databases: SQL
+- Web Development: Django | HTML | CSS
+- Other: Java | C++ | Linux (Basics)
 
 📫 Let's connect and build something meaningful with data!
 ---
