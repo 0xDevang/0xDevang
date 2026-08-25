@@ -16,20 +16,24 @@
 
 ## 🚀 About Me
 
-Hi, I'm Devang Verma, a passionate and curious Programming & Data Analyst. Completed Master of Computer Applications (MCA) from Ajeenkya DY Patil University, Pune. I hold a bachelor's degree in computer applications (BCA), and throughout my academic journey, I’ve consistently been driven by a love for coding and a deep interest in the intersection of programming and data.
+📊 Data Science Enthusiast passionate about turning data into meaningful insights.
+🐍 Currently working with Python, Pandas, NumPy, Matplotlib, and SQL.
+📈 Exploring Data Analysis, Data Visualization, Machine Learning, and Statistics.
+💻 MCA graduate with a strong foundation in Programming & Computer Applications.
+🔍 Interested in solving real-world problems using data and code.
+🚀 Continuously learning and building projects to strengthen my Data Science & Analytics skills.
+🤝 Open to collaborations, internships, projects, and opportunities related to Data Science, Data Analytics, and Programming.
 
-Technical Skills:
-Languages : Python(Pandas, NumPy, Matplotlib) | SQL | 
-Tools: Microsoft Excel, Power BI, Google Sheets 
-Web Technologies: Django, HTML, CSS 
-Foundational Knowledge: Java | Linux (Basics) | C++
+🛠️ Tech Stack
 
-I'm especially fascinated by how data and programming come together to solve real-world problems. This has led me to dive into the world of Data Science and Data Analysis, where I’m continuously learning how to turn raw data into meaningful insights using the power of code.
+Programming & Data: Python | SQL | Pandas | NumPy | Matplotlib | Seaborn
+Data Analysis & Visualization: Excel | Power BI | Google Sheets
+Data Science: Statistics | Exploratory Data Analysis (EDA) | Data Cleaning | Data Visualization | Machine Learning (Learning)
+Databases: SQL
+Web Development: Django | HTML | CSS
+Other: Java | C++ | Linux (Basics)
 
-I’m always eager to grow, collaborate, and contribute to impactful projects.
-
-📫Let’s connect! I’m open to opportunities, internships, collaborations, and discussions related to programming, data, or anything tech.
-
+📫 Let's connect and build something meaningful with data!
 ---
 
 ## 🛠 Technologies & Tools
@@ -98,16 +102,11 @@ I’m always eager to grow, collaborate, and contribute to impactful projects.
 
 ---
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xDevang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDevang&layout=compact&theme=tokyonight&langs_count=8"/>
-</div>
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xDevang&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xDevang&theme=tokyonight" /> </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=0xDevang&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xDevang&theme=tokyonight" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xDevang&theme=tokyonight&utcOffset=5.5" /> </div>
 
 
 ---
@@ -120,12 +119,9 @@ I’m always eager to grow, collaborate, and contribute to impactful projects.
 -->
 
 
-## 📈 Contribution Graph
+📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xDevang&theme=tokyo-night&hide_border=true" />
-</div>
-
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xDevang&theme=tokyonight" /> </div>
 ---
 
 ## 💭 Quote of the Day
