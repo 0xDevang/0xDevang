@@ -22,7 +22,7 @@
 - 💻 MCA graduate with a strong foundation in Programming & Computer Applications.
 - 🔍 Interested in solving real-world problems using data and code.
 - 🚀 Continuously learning and building projects to strengthen my Data Science & Analytics skills.
-- 
+  
 🤝 Open to collaborations, internships, projects, and opportunities related to Data Science, Data Analytics, and Programming.
 
 🛠️ Tech Stack
